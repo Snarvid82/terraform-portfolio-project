@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to demonstrate Terraform skills by building infrastructure. While the specific infrastructure is not defined here, this README provides a starting point for documenting a Terraform project. You can use this template to describe what infrastructure this project provisions, and how to use it.
+This is a project I did as part of a Cloud Engineer Academy course. I got to practise using Terraform to build infrastructure in AWS.
 
 ## Key Features & Benefits
 
@@ -105,24 +105,3 @@ This example creates a simple VPC in AWS. Replace this with more elaborate examp
 *   **Tags:**  Add descriptive tags to resources for better organization and management.
 
 These options should be defined using `variables.tf` and updated using `terraform.tfvars` or environment variables.
-
-## Contributing Guidelines
-
-Contributions are welcome! To contribute to this project, follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with descriptive commit messages.
-4.  Test your changes thoroughly.
-5.  Submit a pull request to the main branch.
-
-Please adhere to the project's coding style and conventions.
-
-## License Information
-
-This project has no license currently specified. All rights are reserved by Snarvid82.
-
-## Acknowledgments
-
-*   [Terraform](https://www.terraform.io/) - For providing the Infrastructure as Code platform.
-*   [HashiCorp](https://www.hashicorp.com/) - For building tools used to ease development.
